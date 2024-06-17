@@ -2,9 +2,12 @@
   "name": "parkup",
   "version": "1.0.0",
   "description": "",
-  "private":true,
+  "private": true,
   "scripts": {},
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
 }
