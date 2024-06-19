@@ -10,7 +10,7 @@
     "tsc": "tsc --noEmit"
   },
   "dependencies": {
-
+    "@parkup/sample-lib": "^1.0.0",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
