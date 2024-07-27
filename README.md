@@ -1,0 +1,1 @@
+A mono repo that I am working on as my personal project. This project is about building a parking application that allows users to book parking spots, valets, and related services. It will be a full stack, end-to-end application with admin features
